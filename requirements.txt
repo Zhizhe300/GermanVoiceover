@@ -1,0 +1,4 @@
+gtts==2.5.0
+PySimpleGUI==4.60.5
+pygame==2.5.2
+pyinstaller==6.7.0
